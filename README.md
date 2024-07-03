@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/license/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp; 
 
 <br>
-
+# Akhil's Project
 ## ABSTRACT : 
 <p align="justify">One of the most used forms of communication among people is Email. A lot of confidential and urgent information is exchanged over emails in today’s time. There are about 253 million visually impaired people worldwide. These visually impaired people are facing a problem of communication. Since technology is growing day by day, these visually challenged people feel that they are more challenged.</p>
 
